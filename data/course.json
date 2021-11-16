@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e7cf2ffc-9988-c91c-7038-056328ee9fed",
+      "fb001b49-fe20-20eb-9119-ff5a9ebc8767"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Microeconomic Theory I",
+  "course_description": "This half-semester course provides an introduction to microeconomic theory designed to meet the needs of students in an economics Ph.D. program. Some parts of the course are designed to teach material that all graduate students should know. Others are used to introduce methodologies. Students should be comfortable with multivariable calculus, linear algebra, and basic real analysis.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.121",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
